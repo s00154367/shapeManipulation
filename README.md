@@ -16,6 +16,7 @@ which will clear all local storage. (20%)
 On the “bookRetrieve.htm” page have a mechanism for deleting one or more books such that local
 storage will be updated so as not to include any deleted books. (10%). Be able to delete a book by at
 least two options (10%).
+
 Part B – 50%
 Write a piece of HTML5 (“Shapes.htm”) which takes in enough coordinates (and any other
 information) to allow you to create a shape via the HTML5 canvas. The actual shape is to be decided
@@ -25,11 +26,13 @@ page (“Render.htm”) which will dynamically render the shape by reading the s
 Also have on the page a styled rectangular div. When the shape is dropped into the div a sound
 should play and both the shape and div should be removed from the page DOM, and storage should
 be cleared. (15%)
+
 Part C – 10%
 Create a unique jQuery animation. In the code documentation, explain why you believe it to be
 unique.
 Note: As this is an Inquiry based assignment, it is expected that you will reference the web for help
 on various topics. However, please note the following;
+
 - All sites you obtain information from must be referenced in the html file where the
 information is used, this must include a link to the site and an overview of what you
 obtained from the site, including the original code of any code snippets used
@@ -40,6 +43,7 @@ HTML file issues you tried to resolve, evidence of debugging (e.g. console.log) 
 anything else (e.g. code which was documented out to allow program to partially work)
 that demonstrates your attempts at solving the problem.
 - You may use jQuery.
+
 Marking Overview:
 - Evidence of concise, clear, well documented coding
 - Use of appropriate data storage
